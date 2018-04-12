@@ -27,16 +27,19 @@ by Tim O'Reilly (Translated by Team 9)
 &nbsp;또한 이들의 가치는 그 소스코드가 아니라 사용자에 의해 동적으로 업데이트 되는 데이터베이스에 있기에 복사본을 만들기도 쉽지 않다.  
 &nbsp;이러한 소프트웨어 기반의 서비스는 오픈소스 소프트웨어의 지배적인 사업 모델이 될 것이다.  
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
-
-
-
-
+&nbsp;
 
 
 ### 참여구조(The Architecture of Participation)
