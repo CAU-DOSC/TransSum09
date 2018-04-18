@@ -14,12 +14,13 @@ Member | 김정민 | 1 page - 6 page   | [minn951120](https://github.com/minn951
 Member | 임기찬 | 12 page - 18 page | [dispe1](https://github.com/dispe1)         |
 
 ## Writing Convention
-- Use friendly tone in the summary.
+- Use friendly tone in the summary. (Related to issue [#1](https://github.com/CAU-DOSC/TransSum09/issues/1).)
     - ex) 다음과 같이 작성한다. (X)
     - ex) 다음과 같이 작성합니다. (O)
-- Write person, company, product name in English.
+- Write person, company, product name in English. (Related to issue [#1](https://github.com/CAU-DOSC/TransSum09/issues/1).)
     - ex) Google, Amazon, Thomas Kuhn, Unix, Linux
-- The ambiguous words can be written in both languages.
+- The ambiguous words can be written in both languages. (Related to issue [#1](https://github.com/CAU-DOSC/TransSum09/issues/1).)
     - ex) 상품(Commodity)
-- For paragraph indentation, use '&nbsp' in the first line.
+- For paragraph indentation, use '&nbsp' in the first line. (Related to issue [#3](https://github.com/CAU-DOSC/TransSum09/issues/3).)
     - Be careful that an indentation needs two blank spaces in the last sentence of the previous paragraph at the end.
+    - Use four spaces for an indentation.
